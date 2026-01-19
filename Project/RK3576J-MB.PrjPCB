@@ -85,6 +85,23 @@ GenerateClassCluster=0
 DocumentUniqueId=HMGVNRWO
 
 [Document3]
+DocumentPath=PWR_PoE_PD_1000BASE-T.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BEFGWLTE
+
+[Document4]
 DocumentPath=PWR_MAIN.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKODPXHQ
 
-[Document4]
+[Document5]
 DocumentPath=PWR_CORE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -118,7 +135,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CZJPBRAN
 
-[Document5]
+[Document6]
 DocumentPath=PWR_PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -135,7 +152,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMKNZAVO
 
-[Document6]
+[Document7]
 DocumentPath=PWR_PMIC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -152,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document8]
 DocumentPath=PWR_CPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CFYSBJFS
 
-[Document8]
+[Document9]
 DocumentPath=CPU_LPDDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TZMJCBFX
 
-[Document9]
+[Document10]
 DocumentPath=CPU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,7 +220,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GWPIDZAR
 
-[Document10]
+[Document11]
 DocumentPath=IC_LPDDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -220,7 +237,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXNLQKFW
 
-[Document11]
+[Document12]
 DocumentPath=Parent_sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,7 +254,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBUPIIAE
 
-[Document12]
+[Document13]
 DocumentPath=MEMORY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -254,7 +271,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JXJDDYTK
 
-[Document13]
+[Document14]
 DocumentPath=Flash_eMMC_MicroSD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -271,7 +288,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVKPPETS
 
-[Document14]
+[Document15]
 DocumentPath=CPU_LPDDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -288,7 +305,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document16]
 DocumentPath=IC_LPDDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -305,7 +322,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document17]
 DocumentPath=Flash_eMMC_MicroSD.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -322,7 +339,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document18]
 DocumentPath=VIDEO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -339,7 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MQPAGVJT
 
-[Document18]
+[Document19]
 DocumentPath=EXTENSIONS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +373,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NBRUSPMN
 
-[Document19]
+[Document20]
 DocumentPath=FIELD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -373,7 +390,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSLGAIBU
 
-[Document20]
+[Document21]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,7 +407,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LKAXPUHI
 
-[Document21]
+[Document22]
 DocumentPath=USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -407,7 +424,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document23]
 DocumentPath=AUDIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -424,7 +441,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTFGYZAN
 
-[Document23]
+[Document24]
 DocumentPath=HDMI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -441,7 +458,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFIGHBJQ
 
-[Document24]
+[Document25]
 DocumentPath=HDMI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -458,7 +475,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document26]
 DocumentPath=mPCIe_LoRa_LTE_RS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -475,7 +492,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUASSVUW
 
-[Document26]
+[Document27]
 DocumentPath=mPCIe_LoRa_LTE_RS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -492,7 +509,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document28]
 DocumentPath=PCIE3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -509,7 +526,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDDHERSU
 
-[Document28]
+[Document29]
 DocumentPath=CPU_GPIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -526,7 +543,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZSMVXBVU
 
-[Document29]
+[Document30]
 DocumentPath=CPU_GPIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -543,7 +560,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document31]
 DocumentPath=RK3576J-MB.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -560,7 +577,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document32]
 DocumentPath=PCIE3.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -577,7 +594,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document32]
+[Document33]
 DocumentPath=AUDIO.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -594,7 +611,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document34]
 DocumentPath=LVDS_CSI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -611,7 +628,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZITTGELK
 
-[Document34]
+[Document35]
 DocumentPath=BMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -628,7 +645,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZDSUZISD
 
-[Document35]
+[Document36]
 DocumentPath=BMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -645,7 +662,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document36]
+[Document37]
 DocumentPath=LVDS_CSI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -662,7 +679,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document37]
+[Document38]
 DocumentPath=JobTemplate.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -679,7 +696,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document38]
+[Document39]
 DocumentPath=Peripherals.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -696,7 +713,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FFURSXRZ
 
-[Document39]
+[Document40]
 DocumentPath=Peripherals.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -713,7 +730,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document40]
+[Document41]
 DocumentPath=BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -730,7 +747,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document41]
+[Document42]
 DocumentPath=PWR_DC_IN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -747,7 +764,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document42]
+[Document43]
 DocumentPath=PWR_MAIN.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -763,23 +780,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document43]
-DocumentPath=PWR_PoE_PD_1000BASE-T.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BEFGWLTE
 
 [Document44]
 DocumentPath=WIRELESS.SchDoc
@@ -901,23 +901,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=PWR_PoE_PD_1000BASE-T.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document52]
 DocumentPath=RS-485ISO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -934,7 +917,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZWORPJV
 
-[Document53]
+[Document52]
 DocumentPath=CAN-FD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -951,7 +934,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IOMOCCCM
 
-[Document54]
+[Document53]
 DocumentPath=8xDIO_ISO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -968,8 +951,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMGODYWW
 
-[Document55]
+[Document54]
 DocumentPath=PWR_CORE.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document55]
+DocumentPath=PWR_PoE_PD_1000BASE-T.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3638,6 +3638,11 @@ OutputName10=Manufacturing Data
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+OutputType11=GOSTBOM
+OutputName11=GOST BOM
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
 
 [OutputGroup7]
 Name=Other Outputs
