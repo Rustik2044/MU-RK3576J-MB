@@ -1,0 +1,3 @@
+V11:
+The PCB package of RK3576 is modified to BGA698_16R1X17R2X1R08.
+The timing of the PLDO2 power supply is changed from 3 to 5.
