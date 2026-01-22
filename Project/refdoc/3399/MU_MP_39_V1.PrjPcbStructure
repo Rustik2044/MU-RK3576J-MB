@@ -1,0 +1,23 @@
+Record=TopLevelDocument|FileName=01 INPUT_PWR.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=02 INPUT_PWR_2.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=03 RK808.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=04 POWER.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=05 CPU_PWR.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=06 CPU_RAM.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=07 RAM_PWR.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=08 RAM.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=09 EMMC.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=10 SDMMC.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=11 USB_2.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=12 USB_3.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=13 CPU_1.SchDoc|SheetNumber=13
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=14 CPU_2.SchDoc|SheetNumber=14
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=15 ETHERNET.SchDoc|SheetNumber=15
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=16 HDMI.SchDoc|SheetNumber=16
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=17 EDP.SchDoc|SheetNumber=17
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=18 I2S.SchDoc|SheetNumber=18
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=19 RADIATOR.SchDoc|SheetNumber=19
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=20 WiFi_BT.SchDoc|SheetNumber=20
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=21 CAN.SchDoc|SheetNumber=21
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=22 PCIE.SchDoc|SheetNumber=22
+Record=NoMainPathDocument|SourceDocument=01 INPUT_PWR.SchDoc|FileName=23 Unused.SchDoc|SheetNumber=23
