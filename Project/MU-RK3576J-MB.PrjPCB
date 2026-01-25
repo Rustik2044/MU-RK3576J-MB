@@ -985,6 +985,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document56]
+DocumentPath=PWR_PoE_PD_1000BASE-T.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=7B3579E0-E449-4B30-B06A-B302E634DAD0
 Description=MU-RK3576J-MB
@@ -3638,11 +3655,6 @@ OutputName10=Manufacturing Data
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=GOSTBOM
-OutputName11=GOST BOM
-OutputDocumentPath11=
-OutputVariantName11=[No Variations]
-OutputDefault11=0
 
 [OutputGroup7]
 Name=Other Outputs
