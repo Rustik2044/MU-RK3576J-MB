@@ -1112,7 +1112,7 @@ ParameterCount=3
 VariationCount=372
 Variation1=Designator=R349|UniqueId=\RIMKWERG\BOSDJOMY\SFUISPSO|Kind=1|AlternatePart=
 Variation2=Designator=R344|UniqueId=\RIMKWERG\BOSDJOMY\HJVNVDER|Kind=1|AlternatePart=
-Variation3=Designator=R33|UniqueId=\RIMKWERG\RQRBJRCF\DZABLAIE|Kind=1|AlternatePart=
+Variation3=Designator=R33|UniqueId=\RIMKWERG\RQRBJRCF\DZABLAIE|Kind=0|AlternatePart=
 Variation4=Designator=R45|UniqueId=\RIMKWERG\RQRBJRCF\HKZXATKI|Kind=1|AlternatePart=
 Variation5=Designator=R31|UniqueId=\RIMKWERG\RQRBJRCF\IITAIPZB|Kind=1|AlternatePart=
 Variation6=Designator=R32|UniqueId=\RIMKWERG\RQRBJRCF\XHAJNHTE|Kind=1|AlternatePart=
@@ -1501,10 +1501,10 @@ UniqueId=7B3579E0-E449-4B30-B06A-B302E634DAD0
 Description=MU-RK3576J-MB_FULL
 AllowFabrication=0
 ParameterCount=3
-VariationCount=59
+VariationCount=60
 Variation1=Designator=R349|UniqueId=\RIMKWERG\BOSDJOMY\SFUISPSO|Kind=1|AlternatePart=
 Variation2=Designator=R344|UniqueId=\RIMKWERG\BOSDJOMY\HJVNVDER|Kind=1|AlternatePart=
-Variation3=Designator=R33|UniqueId=\RIMKWERG\RQRBJRCF\DZABLAIE|Kind=1|AlternatePart=
+Variation3=Designator=R33|UniqueId=\RIMKWERG\RQRBJRCF\DZABLAIE|Kind=0|AlternatePart=
 Variation4=Designator=R45|UniqueId=\RIMKWERG\RQRBJRCF\HKZXATKI|Kind=1|AlternatePart=
 Variation5=Designator=R31|UniqueId=\RIMKWERG\RQRBJRCF\IITAIPZB|Kind=1|AlternatePart=
 Variation6=Designator=R32|UniqueId=\RIMKWERG\RQRBJRCF\XHAJNHTE|Kind=1|AlternatePart=
@@ -1561,6 +1561,7 @@ Variation56=Designator=R265|UniqueId=\ZCUEVVNY\KCWELEHO|Kind=1|AlternatePart=
 Variation57=Designator=R283|UniqueId=\ZCUEVVNY\GDEMYECB|Kind=1|AlternatePart=
 Variation58=Designator=R483|UniqueId=\QSJSVMCL\SGYMBZJY|Kind=1|AlternatePart=
 Variation59=Designator=R482|UniqueId=\QSJSVMCL\NEYWPOAQ|Kind=1|AlternatePart=
+Variation60=Designator=R5|UniqueId=\XWTNVIOJ\CDURWICD\UVFVBCZE|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter3_1]
