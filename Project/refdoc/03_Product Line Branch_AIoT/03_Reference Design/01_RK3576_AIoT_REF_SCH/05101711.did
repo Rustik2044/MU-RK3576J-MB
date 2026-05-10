@@ -1,0 +1,12 @@
+# Cadence Design Systems, Inc.
+# Allegro PCB Router Automatic Router
+# Allegro PCB Router v23-1-0 made 2024/03/04 at 12:48:59
+# Running on host 
+# 
+#            Command Line Parameters
+#            -----------------------
+# Design File Name : D:\Work\Outsource\Mash-Unit\MU-RK3576J-MB\MU-RK3576J-MB\Project\refdoc\03_Product Line Branch_AIoT\03_Reference Design\01_RK3576_AIoT_REF_SCH\RK3576_AIOT_REF_SCH_V11_20240530.DSN
+# No "-do" or "-docmd" switches specified on command line.
+# Status File Name : D:\Work\Outsource\Mash-Unit\MU-RK3576J-MB\MU-RK3576J-MB\Project\refdoc\03_Product Line Branch_AIoT\03_Reference Design\01_RK3576_AIoT_REF_SCH\monitor.sts
+quit -c
+cancel_product_select
