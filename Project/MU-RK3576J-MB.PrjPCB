@@ -1104,6 +1104,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document63]
+DocumentPath=..\For_production\GERBER\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document64]
+DocumentPath=..\For_production\GERBER\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=F7125773-6C92-420B-A2DB-2FC02D0B83FE
 Description=MU-RK3576J-MB_ВКС
@@ -2126,6 +2160,114 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for WM620-FA\Design Rule Check - MU-RK3576J-MB.html
 DItemRevisionGUID=
 
+[GeneratedDocument3]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G3
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G4
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G5
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G6
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G7
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.G8
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GM30
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for WM620-FA\MU-RK3576J-MB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for WM620-FA\Pick Place for MU-RK3576J-MB(MU-RK3576J-MB_FULL).txt
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for WM620-FA\Pick Place for MU-RK3576J-MB(MU-RK3576J-MB_MEDIAPLAYER).txt
+DItemRevisionGUID=
+
 [Parameter1]
 Name=DecimalNumber
 Value=ЮРТН.466256.002
@@ -2805,28 +2947,28 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=M4125idnKX-185
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Assembly
-OutputName1=Assembly Drawings
+OutputType1=Pick Place
+OutputName1=Generates pick and place files
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
-OutputType2=Wire Bonding Table
-OutputName2=Wire Bonding Table Report
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Datasheet,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#18=Name:Param,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#19=Name:DC Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#20=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#21=Name:Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#22=Name:Annotation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#23=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#24=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#25=Name:Check,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#26=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#27=Name:Last changed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#28=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#29=Name:Analog,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#30=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#31=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#32=Name:NameFromManufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#33=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#34=Name:Place,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#35=Name:Last changeв,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#36=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#37=Name:ClassName,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#38=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#39=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#40=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#42=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#43=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#44=Name:Analogs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#45=Name:Производитель,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#46=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#47=Name:Макс входное напряжение,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#48=Name:Корпус,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#49=Name:Мин выходное напряжение,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#50=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#51=Name:Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#52=Name:URLs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#53=Name:PartNumber,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#54=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#55=Name:Макс выходное напряжение,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#56=Name:ComponentType,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#57=Name:Выходной ток,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#58=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#59=Name:Мин входное напряжение,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#60=Name:Способ монтажа,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#61=Name:Manufacter,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|DocumentPath=D:\Work\Outsource\Mash-Unit\MU-RK3576J-MB\MU-RK3576J-MB\Project\MU-RK3576J-MB.PcbDoc
+OutputType2=Test Points For Assembly
+OutputName2=Test Point Report
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Pick Place
-OutputName3=Generates pick and place files
+OutputType3=Assembly
+OutputName3=Assembly Drawings
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-Configuration3_Name1=ForceUpdateSettings
-Configuration3_Item1=False
-Configuration3_Name2=OutputConfigurationParameter1
-Configuration3_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Datasheet,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#18=Name:Param,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#19=Name:DC Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#20=Name:Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#21=Name:Current,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#22=Name:Annotation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#23=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#24=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#25=Name:Check,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#26=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#27=Name:Last changed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#28=Name:Voltage,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#29=Name:Analog,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#30=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#31=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#32=Name:NameFromManufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#33=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#34=Name:Place,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#35=Name:Last changeв,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#36=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#37=Name:ClassName,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#38=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#39=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#40=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#41=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#42=Name:Vakue,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#43=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#44=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#45=Name:Analogs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#46=Name:Original PN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#47=Name:Part_Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#48=Name:Номинал,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#49=Name:Website,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#50=Name:Видоразмер,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#51=Name:Дата,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#52=Name:Тип корпуса,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#53=Name:Schematic_Part,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#54=Name:Library Ref 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#55=Name:Тип компонента,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#56=Name:Точность,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#57=Name:Наименование,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#58=Name:Температура,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#59=Name:Library Ref 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#60=Name:Photo,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#61=Name:Device,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#62=Name:PCB_Footprint,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#63=Name:Вариант установки,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#64=Name:Код ERP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#65=Name:Автор,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#66=Name:Part_ID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#67=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#68=Name:Напряжение,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#69=Name:Производитель,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#70=Name:Тип ЭКБ,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#71=Name:PlacementStatus,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|DocumentPath=D:\ATB-Gitlab structure\CPU_HARD\Материнские платы\ATБ-RK3568X-MB\atb-rk3568x-mb\АТБ-RK3568X-MB.PcbDoc
-OutputType4=Test Points For Assembly
-OutputName4=Test Point Report
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
@@ -4696,7 +4838,7 @@ OutputDefault11=0
 Configuration11_Name1=ForceUpdateSettings
 Configuration11_Item1=False
 Configuration11_Name2=OutputConfigurationParameter1
-Configuration11_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\ATB-Gitlab structure\CPU_HARD\Материнские платы\ATБ-RK3568X-MB\atb-rk3568x-mb\АТБ-RK3568X-MB.PcbDoc
+Configuration11_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Work\Outsource\Mash-Unit\MU-RK3576J-MB\MU-RK3576J-MB\Project\MU-RK3576J-MB.PcbDoc
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -4705,7 +4847,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=RHMPTMIT|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=True|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973834~1,16777217~1,16777218~1,16777219~1,16842751~1,16973835~1,16973831~1,16777220~1,16777221~1,16777222~1,16777223~1,16908318~1,16777225~1,16777224~1,16973837~1,16973832~1,16973833~1|PlotBoardProfile=False|PlotBoardProfileFileName=АТБ-RK3568J-MB_REV3.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=D:\ATB-Gitlab structure\CPU_HARD\Материнские платы\ATБ-RK3568X-MB\atb-rk3568x-mb\АТБ-RK3568X-MB.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=OGVGVVUW|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=True|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973831~1|PlotBoardProfile=False|PlotBoardProfileFileName=АТБ-RK3568J-MB_REV3.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName= |UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName= |UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|DocumentPath=D:\Work\Outsource\Mash-Unit\MU-RK3576J-MB\MU-RK3576J-MB\Project\MU-RK3576J-MB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
